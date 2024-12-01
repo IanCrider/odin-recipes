@@ -1,0 +1,1 @@
+This is going to be my first project. I will build a simple recipe website that will use links and maybe some pictures. I'm not too sure yet, but it should be very doable. Also, don't delete this, you're gonna need it later to practice 
